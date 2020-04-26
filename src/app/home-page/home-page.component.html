@@ -1,0 +1,7 @@
+<div class="posts" *ngIf="posts | async as data; else loading">
+  <app-post *ngFor="let post of data" [post]="post">
+  </app-post>
+</div>
+<ng-template #loading>
+  <p class="text-center">Загрузка...</p>
+</ng-template>

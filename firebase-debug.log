@@ -1,0 +1,28 @@
+[debug] [2020-04-26T21:15:29.563Z] ----------------------------------------------------------------------
+[debug] [2020-04-26T21:15:29.567Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\barada\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2020-04-26T21:15:29.567Z] CLI Version:   8.1.1
+[debug] [2020-04-26T21:15:29.568Z] Platform:      win32
+[debug] [2020-04-26T21:15:29.568Z] Node Version:  v12.14.0
+[debug] [2020-04-26T21:15:29.569Z] Time:          Mon Apr 27 2020 00:15:29 GMT+0300 (GMT+03:00)
+[debug] [2020-04-26T21:15:29.569Z] ----------------------------------------------------------------------
+[debug] [2020-04-26T21:15:29.569Z] 
+[debug] [2020-04-26T21:15:29.578Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-04-26T21:15:29.579Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  E:\angular_prohects\angBlog\angBlog
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
